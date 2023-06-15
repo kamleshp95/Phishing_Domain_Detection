@@ -1,0 +1,25 @@
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Plotly
+Time
+LogisticRegression
+MultinomialNB
+train_test_split
+classification_report
+confusion_matrix
+RegexpTokenizer
+SnowballStemmer
+CountVectorizer
+make_pipeline
+Image
+wordcloud
+beautifulsoup4
+selenium
+NetworkX
+Warnings
+# // for deployement
+uvicorn
+fastapi 
+joblib
